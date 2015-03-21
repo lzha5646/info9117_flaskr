@@ -4,7 +4,7 @@ from flask import Flask, request, session, g, redirect, url_for, \
     abort, render_template, flash
 
 #configuration
-DATABASE = 'db/flask.db'
+DATABASE = '/Users/LEILEILEILEIL/info9117/info9117_flaskr/db/flask.db'
 DEBUG = True
 SECRET_KEY = 'development key'
 #USERNAME = 'admin'
